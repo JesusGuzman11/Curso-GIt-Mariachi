@@ -7,3 +7,6 @@
 * Mujer Maravilla
 * Shazam
 * Cyborg
+* Iron Man
+* Spidey
+* Cap
